@@ -1,6 +1,12 @@
 # Nagios Telegram Notification Bot
 
-This allows the Nagios send out the notisfication through Telegram and also to check the **problem services** within the Telegram. 
+This allows the Nagios send out the notifications through Telegram and also to check the **problem services** within the Telegram. 
+
+# Feature
+- Nagios send out trigger based on its customized rules 
+- Mute the alarms triggered
+- Check current problem services in Telegram (/list)
+- Mute/unmute the alarms you view in the list
 
 # Tech Point
 - Python 3
